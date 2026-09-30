@@ -1,0 +1,7 @@
+{
+  "pack": "fictional-pack-03",
+  "sequence": 1042,
+  "caller_view": ["business", "contact", "phone", "limited_context"],
+  "latest_outcome": "callback",
+  "sync_state": "pending_export"
+}
